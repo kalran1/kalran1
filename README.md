@@ -11,6 +11,10 @@ Node.js 코드 메모리 과부하를 고친적이있으며, Node-red를 이용�
 
 mqtt 통신이나 aws, firebase 등 cloud를 기본적인 부분은 다룬 경험이있습니다.
 
-**💪 Skils**
+## **💪 Skils**
+
+## ** Platforms & Languages **
 
 <img src="https://img.shields.io/badge/Arduino-2300979D?style=flat-square&logo=Arduino&logoColor=white"/>
+
+## ** Tools **
