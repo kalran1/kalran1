@@ -1,7 +1,7 @@
-karan1/README.md
+### karan1/README.md
 
 
-<img src="https://img.shields.io/badge/seoyouwon96@gmail.com-181717?style=flat-square&logo=Github&logoColor=white"/>
+<img src="https://img.shields.io/badge/seoyouwon96@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 Hi there 👋 
 
