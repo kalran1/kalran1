@@ -5,11 +5,11 @@
 
 Hi there 👋 
 
-저는 **임베디드 개발자** 로서 업무를 수행하고있으며 Python, Arduino, Jeston nano, Lora 무선통신,물리 센서, etc 등을 다루고있습니다.
+I work as **embedded developer** and I work on Python, Arduino, Jestonano, Lora wireless communications, physical sensors, etc.
 
-Node.js 코드 메모리 과부하를 고친적이있으며, Node-red를 이용하여 대쉬보드에 실시간 모니터링이 가능하게 구축할수있고,
+Node.js code memory overload has been fixed, and Node-red can be used to build real-time monitoring on the dashboard.
 
-mqtt 통신이나 aws ec2, firebase, google cloud 등 cloud를 기본적인 부분은 다룬 경험이있습니다.
+I have experience dealing with basic parts of cloud such as mqtt communication, awsec2, firebase, and Google cloud.
 
 ## **💪Skils**
 
